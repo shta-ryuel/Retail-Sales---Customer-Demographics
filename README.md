@@ -72,17 +72,12 @@ Retail_Sales_Analysis/
    cd Retail-Sales---Customer-Demographics
    ```
 
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the `main.ipynb` file to perform the analysis:
+3. Run the `main.ipynb` file to perform the analysis:
    ```bash
    python scripts/main.ipynb
    ```
 
-5. Open the Tableau dashboard file `retail_sales_dashboard.twb` to explore the visualizations.
+4. Open the Tableau dashboard file `retail_sales_dashboard.twb` to explore the visualizations.
 
 ## Results
 This project provides actionable insights into customer demographics and purchasing behavior, enabling businesses to make data-driven decisions and optimize their sales strategies.
