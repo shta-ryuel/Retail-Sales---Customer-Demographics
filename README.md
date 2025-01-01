@@ -15,6 +15,8 @@ The dataset consists of the following columns:
 - **Price per Unit**: Price of a single unit of the product
 - **Total Amount**: Total cost of the transaction
 
+  Link to original dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+
 ## Objectives
 1. Understand the influence of age and gender on purchasing behavior.
 2. Identify sales patterns across different time periods.
