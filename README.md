@@ -84,7 +84,6 @@ Retail_Sales_Analysis/
 ## Results
 This project provides actionable insights into customer demographics and purchasing behavior, enabling businesses to make data-driven decisions and optimize their sales strategies.
 
-## License
-This project is licensed under the MIT License.
+
 
  
